@@ -1,152 +1,233 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Sarthak Chittawar",
+    "label": "Undergraduate Researcher at IIIT Hyderabad",
+    "email": "sarthakchitt@gmail.com",
+    "phone": "+91 9686719245",
+    "website": "https://sarthakchittawar.github.io",
+    "summary": "Computer Science and Engineering student at IIIT Hyderabad working on mobile robotics, computer vision, NLP, and machine learning systems. Undergraduate researcher at the Robotics Research Centre advised by Prof. K. Madhava Krishna.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "Telangana"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "sarthak-chittawar",
+        "url": "https://www.linkedin.com/in/sarthak-chittawar"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sarthakchittawar",
+        "url": "https://github.com/sarthakchittawar"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "IBM Research",
+      "position": "AI Research Intern",
+      "startDate": "May 2025",
+      "endDate": "Aug. 2025",
+      "summary": "NLP, computer vision, document intelligence, and hyperspectral satellite modeling in Bengaluru, Karnataka.",
+      "highlights": [
+        "Engineered an end-to-end pipeline for extracting unstructured tabular data from PDFs into accurate CSVs, improving significantly on previous work.",
+        "Developed QA and summary models using RAG-based few-shot prompting on an SQL backbone for user interaction.",
+        "Worked on methane emission rate prediction from hyperspectral satellite data and local wind speeds by fine-tuning the Prithvi-V1-100 model.",
+        "Received a pre-placement offer after completing the internship."
+      ]
+    },
+    {
+      "company": "Robotics Research Centre, IIIT Hyderabad",
+      "position": "Undergraduate Researcher",
+      "startDate": "May 2023",
+      "endDate": "Present",
+      "summary": "Mobile robotics and computer vision research advised by Prof. K. Madhava Krishna.",
+      "highlights": [
+        "Worked on MASt3R-guided topological navigation and pixel-relative representations.",
+        "Published research on topological navigation at IEEE ICRA 2026 and IEEE/RSJ IROS 2026."
+      ]
+    },
+    {
+      "company": "Stealth Startup",
+      "position": "Machine Learning Intern",
+      "startDate": "June 2024",
+      "endDate": "Aug. 2024",
+      "summary": "Computer vision and PyTorch internship in Hyderabad, Telangana.",
+      "highlights": [
+        "Developed a YOLO-based framework for detecting defects in electric power lines.",
+        "Built model architecture components from scratch and managed data preprocessing and training."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "International Institute of Information Technology, Hyderabad",
+      "area": "Computer Science and Engineering",
+      "studyType": "B.Tech + M.S. by Research",
+      "startDate": "Nov. 2021",
+      "endDate": "July 2026",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Unix Bash",
+        "C/C++",
+        "Python",
+        "Java",
+        "HTML/CSS",
+        "SQL",
+        "x86 Assembly",
+        "JavaScript",
+        "GLSL Shading Language"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Linux",
+        "Git",
+        "MERN Stack",
+        "Flask",
+        "Docker",
+        "THREE.js",
+        "D3.js",
+        "OpenGL",
+        "PyTorch",
+        "TensorFlow",
+        "Weights & Biases"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Mobile Robotics",
+        "Computer Vision",
+        "Visual Navigation",
+        "Topological Mapping",
+        "NLP",
+        "Foundation Models",
+        "AI Safety"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops",
+      "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "releaseDate": "2026-06-17",
+      "website": "https://pixelloop-nav.github.io/static/PixelLoop.pdf",
+      "summary": "Shortcut topological navigation using pixel-level loop closures."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "MASt3R-Nav: WayPixel Navigation in Relative 3D Maps",
+      "publisher": "IEEE International Conference on Robotics and Automation (ICRA)",
+      "releaseDate": "2026-06-04",
+      "website": "https://arxiv.org/abs/2605.24111",
+      "summary": "WayPixel navigation in relative 3D maps for geometrically grounded robot navigation."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Towards Global Localization using Multi-Modal Object-Instance Re-Identification",
+      "publisher": "Advances in Robotics (AIR) - Oral",
+      "releaseDate": "2025-07-05",
+      "website": "https://arxiv.org/pdf/2507.04040",
+      "summary": "Multimodal object-instance re-identification using RGB and depth for robust localization."
     }
   ],
-  "presentations": [
+  "projects": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Medmini",
+      "date": "Oct. 2023",
+      "keywords": [
+        "NLP",
+        "LLM",
+        "React.js",
+        "Flask",
+        "Docker"
+      ],
+      "summary": "Lightweight LLM-based medical data answering system for edge devices.",
+      "highlights": [
+        "Designed for less than 3 GB RAM, 0 VRAM, and sub-3-second inference.",
+        "Deployed through the Android Expo Go app.",
+        "Awarded 2nd place by Qualcomm at Megathon 2023."
+      ]
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Image Style Transfer using Transformers",
+      "date": "Apr. 2024",
+      "keywords": [
+        "Computer Vision",
+        "NLP"
+      ],
+      "summary": "Enhanced a CVPR 2022 transformer-based style transfer architecture with content-aware positional encoding.",
+      "highlights": [
+        "Integrated CLIP for text-based image retrieval.",
+        "Used optical flow for video style transfer."
+      ]
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Fast Inference using Speculative Decoding",
+      "date": "Nov. 2024",
+      "keywords": [
+        "NLP",
+        "Machine Learning",
+        "PyTorch"
+      ],
+      "summary": "Implemented speculative decoding with knowledge distillation to improve inference times for translation and generation tasks.",
+      "highlights": [
+        "Improved on the baseline with online speculative decoding between draft and target models."
+      ]
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "A Study in Mechanistic Interpretability - Grokking",
+      "date": "Apr. 2024",
+      "keywords": [
+        "NLP",
+        "LLM",
+        "AI Safety"
+      ],
+      "summary": "Studied mechanistic interpretability and AI safety through grokking experiments on a toy language model.",
+      "highlights": []
     }
   ],
-  "teaching": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "IndiaAI fellowship for graduate students",
+      "date": "2025",
+      "awarder": "IndiaAI",
+      "summary": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "2nd place at Megathon 2023",
+      "date": "2023",
+      "awarder": "Qualcomm",
+      "summary": "Awarded for Medmini at Hyderabad's largest student hackathon."
+    },
+    {
+      "title": "All India Rank 44 in IIIT-UGEE",
+      "date": "2021",
+      "awarder": "IIIT-UGEE",
+      "summary": "Ranked among 9.4 lakh students."
+    },
+    {
+      "title": "All India Rank 3887 in JEE Main",
+      "date": "2021",
+      "awarder": "JEE Main",
+      "summary": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
