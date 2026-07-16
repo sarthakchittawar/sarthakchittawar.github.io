@@ -127,7 +127,7 @@
       "name": "PixelLoop: Shortcut Topological Navigation with Pixel-Level Loops",
       "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
       "releaseDate": "2026-06-17",
-      "website": "https://pixelloop-nav.github.io/static/PixelLoop.pdf",
+      "website": "https://arxiv.org/abs/2607.12811",
       "summary": "Shortcut topological navigation using pixel-level loop closures."
     },
     {
